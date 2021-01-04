@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+
+}
+h1>span{
+    color: orange;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.title-top{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.title-top>img{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.top-banner{
+    background-image: url('images/top-banner.png');
+    background-repeat: no-repeat;
+}
